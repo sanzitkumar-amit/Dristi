@@ -1,6 +1,37 @@
-# DRISHTI — Early Risk Detection System for Project Monitoring
+# DRISHTI — AI-Powered Early Risk Detection for Project Monitoring
 
-DRISHTI is an AI-powered project risk monitoring system designed for government and enterprise infrastructure project oversight (inspired by PAIMANA / OCMS systems). It converts raw project tracking data (cost spent, physical progress, elapsed timeline, inspector remarks) into a unified **Risk Score (0–100)**, predicts cost overrun likelihood and schedule delays, provides feature importance explainability, and extracts NLP insights from free-text reports.
+**From project data to early warnings — DRISHTI helps identify, explain, and predict infrastructure project risks before they become critical.**
+
+DRISHTI is an AI-powered project monitoring and risk intelligence system designed to help government and enterprise teams identify potential project risks at an early stage. It transforms project data such as **budget utilization, physical progress, timelines, and inspection remarks** into actionable risk insights.
+
+Unlike conventional monitoring dashboards that primarily show project status, DRISHTI focuses on **early detection and prediction**—helping monitoring teams understand **which projects are at risk, why they are at risk, and what may happen if the risk continues**.
+
+### Why DRISHTI?
+
+Infrastructure projects can involve multiple risk factors simultaneously—**budget utilization, slow physical progress, schedule slippage, implementation issues, and critical remarks in inspection reports**. When these signals are examined separately, emerging problems can be difficult to identify early.
+
+DRISHTI brings these signals together into a unified intelligence layer that can:
+
+**Monitor → Detect → Predict → Explain → Alert → Support Decisions**
+
+The goal is to shift project monitoring from **reactive status tracking to proactive risk identification**.
+
+### Core Intelligence
+
+| Project Data          | AI Analysis        | Actionable Insight    |
+| --------------------- | ------------------ | --------------------- |
+| Budget & expenditure  | Cost-risk analysis | Overrun risk          |
+| Physical progress     | Progress analysis  | Progress gap          |
+| Timeline & milestones | Delay prediction   | Expected delay        |
+| Inspector remarks     | NLP analysis       | Critical risk signals |
+| Multiple risk factors | Explainability     | Risk drivers          |
+
+### What Makes DRISHTI Different?
+
+> **Traditional monitoring asks:** “What is the current project status?”
+> **DRISHTI additionally asks:** “What is the risk, what is driving it, and what should be monitored next?”
+
+**DRISHTI is designed as an early-warning and decision-support layer—not just another project dashboard.**
 
 ---
 
